@@ -1,0 +1,6 @@
+@GoodHamburguer_HostAddress = http://localhost:5120
+
+GET {{GoodHamburguer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
